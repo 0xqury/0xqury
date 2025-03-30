@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm 0xqury
 
-<!--
-**0xqury/0xqury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 A student, self-driven learner, and future security engineer.  
+🛡️ Currently studying to become a skilled cybersecurity specialist with deep technical understanding and practical experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+- Build strong fundamentals in **C language, Linux, and system internals**
+- Learn **offensive & defensive security techniques**
+- Prepare for **BoB (Best of the Best)** and graduate school in security
+
+---
+
+## 📚 Currently Studying
+- `C Programming` (low-level memory management, pointers, system calls)
+- `Linux & WSL` (command-line tools, environment setup, basic automation)
+- `Python for Security` (log parsing, scanning, scripting)
+- `CTF & Security Labs` (TryHackMe, picoCTF)
+- `English Reading` (security blog translation, technical docs)
+
+---
+
+## 🔗 Blog & Links
+- 📘 Tech Blog: [velog.io/@0xqury](https://velog.io/@0xqury/series)
+
+---
+
+_This README is just the beginning. Watch my journey grow here._ 🚀
